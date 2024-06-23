@@ -2,9 +2,7 @@
 
 ## Overview
 This project presents an interactive simulation of a traditional roulette game, incorporating various betting systems and strategies. Users can place bets on different outcomes and update game displays based on the result, providing an intuitive understanding of roulette game mechanics, payout ratios, and betting strategies in a virtual environment.
-![Loading Screen](screenshots/Loading Screen.png)
-![Betting Screen](screenshots/betting_screen.png)
-![Game Result](screenshots/game_result.png)
+![Loading Screen](images/Loading_Screen.png)
 ## Features
 - **Loading Screen**: Introduces user input keys for efficient user interaction.
   - Press 1, 2, 3: Choose the betting amount
